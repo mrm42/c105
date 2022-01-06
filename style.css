@@ -1,0 +1,16 @@
+.names_of_objects{
+    font-size: 25px;
+}
+#camera{
+    border: 2px double black;
+    width: 350px;
+    height: 300px;
+}
+.heading{
+    width: 75%;
+    font-size: 22px;
+}
+body{
+    background-color: rgb(62, 96, 112);
+    color: cornsilk;
+}
